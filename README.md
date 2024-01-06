@@ -26,7 +26,7 @@
 
 
   ## Acknowledgements
-  Youtube: Programming With Nick (inspiration for the project and when I was stuck I'd use his code for referrence)
+  *__Youtube: Programming With Nick__* (inspiration for the project and when I was stuck I'd use his code for referrence)
 
 
 
