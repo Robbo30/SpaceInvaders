@@ -8,8 +8,8 @@ The game has features such as player movement, map borders, mystery ships, high 
 How to Install and Run the code:
 
 <html>
-<body>
-<p>Let’s keep it as a code block and not render it for once</p>
-</body>
+ <body>
+  <p>Let’s keep it as a code block and not render it for once</p>
+ </body>
 </html>
 
