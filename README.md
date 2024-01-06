@@ -18,12 +18,11 @@
 ## How to play the game:
 
 ### Movement:
-  __Left Arrow__ = Low
+  __Left Arrow__ = Move Left
   
-  __Right Arrow__ = Right
+  __Right Arrow__ = Move Right
 ### Lasers:
   __Spacebar__ = shoot laser
-
 
 
   ## Acknowledgements
