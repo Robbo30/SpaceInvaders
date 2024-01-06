@@ -19,6 +19,7 @@
 
 ### Movement:
   __Left Arrow__ = Low
+  
   __Right Arrow__ = Right
 ### Lasers:
   __Spacebar__ = shoot laser
