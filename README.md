@@ -7,9 +7,12 @@ The game has features such as player movement, map borders, mystery ships, high 
   
 How to Install and Run the code:
 
-<html>
- <body>
-  <p>Let’s keep it as a code block and not render it for once</p>
- </body>
-</html>
+  $ git clone https://github.com/ThatsLiamS/CS50x-Python.git
+Navigate the directory structure
+  $ cd directoryName
+  $ cd ..
+  # etc etc
+Execute the Python Program
+  $ python nameOfFile.py
+
 
